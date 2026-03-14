@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Лабораторная работа №1</string>
+    <!--Buttons-->
+    <string name="sign_in_button">Вход</string>
+    <string name="reset_password_button">Сброс</string>
+    <string name="sign_up_button">Регистрация</string>
+    <!--Content Descriptions-->
+    <string name="navigate_back">Назад</string>
+    <!--Actions-->
+    <string name="sign_out">Выход</string>
+    <string name="delete_user">Удалить пользователя</string>
+    <!--Screen Titles-->
+    <string name="sign_in_screen_title">Вход</string>
+    <string name="forgot_password_screen_title">Забыли пароль</string>
+    <string name="sign_up_screen_title">Регистрация</string>
+    <string name="verify_email_screen_title">Верификация email</string>
+    <string name="profile_screen_title">Профиль</string>
+    <!--Labels-->
+    <string name="email_label">Email</string>
+    <string name="password_label">Пароль</string>
+    <string name="sign_out_action_label">Выйти?</string>
+    <!--Texts-->
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="sign_up">Нет аккаунта? Зарегитрироваться.</string>
+    <string name="sign_in">Есть аккунт? Вход.</string>
+    <string name="welcome_message">Добро пожаловать в ваше приложение.</string>
+    <string name="already_verified">Уже верифицированы?</string>
+    <string name="spam_email">If not, please also check the spam folder.</string>
+    <!--Keywords-->
+    <string name="sensitive_keyword">sensitive</string>
+    <!--Messages-->
+    <string name="invalid_email_message">Email cannot be empty or contain only whitespace.</string>
+    <string name="invalid_password_message">Password cannot be empty or contain only whitespace.</string>
+    <string name="account_created_message">Your account has been successfully created.</string>
+    <string name="email_verification_sent_message">We\'ve sent you an email with a link to verify the email.</string>
+    <string name="email_not_verified_message">Your email is not verified. Please click the link in the email.</string>
+    <string name="reset_password_message">We\'ve sent you an email with a link to reset the password.</string>"
+    <string name="reauthentication_required_message">You need to reauthenticate before deleting the user.</string>
+    <string name="user_deleted_message">User successfully deleted.</string>
+
+
+</resources>

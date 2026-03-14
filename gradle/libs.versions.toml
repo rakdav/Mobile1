@@ -1,7 +1,7 @@
 [versions]
-gradle = "8.13.0"
-kotlin = "2.1.20"
-devtoolsKsp = "2.1.20-1.0.32"
+gradle = "9.0.1"
+kotlin = "2.2.10"
+devtoolsKsp = "2.3.2"
 googleServices = "4.4.2"
 hilt = "2.56.1"
 composeBom = "2025.03.01"
@@ -10,6 +10,8 @@ navigationCompose = "2.8.9"
 hiltNavigationCompose = "1.2.0"
 firebaseAuth = "23.2.0"
 serialization = "1.7.3"
+uiToolingPreview = "1.10.5"
+uiTooling = "1.10.5"
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "gradle" }
@@ -30,3 +32,5 @@ hilt = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hilt" }
 firebase-auth = { module = "com.google.firebase:firebase-auth", version.ref = "firebaseAuth" }
 serialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "serialization"}
+ui-tooling-preview = { group = "androidx.compose.ui", name = "ui-tooling-preview", version.ref = "uiToolingPreview" }
+ui-tooling = { group = "androidx.compose.ui", name = "ui-tooling", version.ref = "uiTooling" }

@@ -48,6 +48,8 @@ dependencies {
     implementation(libs.hilt.navigation.compose)
     //Hilt
     implementation(libs.hilt)
+    implementation libs.ui.tooling.preview
+    debugImplementation libs.ui.tooling
     ksp(libs.hilt.compiler)
     //Firebase
     implementation(libs.firebase.auth)

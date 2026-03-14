@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500922760197",
+    "project_id": "fir-project-8355f",
+    "storage_bucket": "fir-project-8355f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500922760197:android:35152f67a3562d9dd0706c",
+        "android_client_info": {
+          "package_name": "ro.alexmamo.firebasesigninwithemailandpassword"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiVAbhsXbAST72nKD7JTb-J5gHhTDVs9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FirebaseSignInWithEmailAndPassword</string>
+    <string name="app_name">Lab!</string>
     <!--Buttons-->
     <string name="sign_in_button">Sign in</string>
     <string name="reset_password_button">Reset</string>
