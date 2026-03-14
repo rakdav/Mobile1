@@ -49,6 +49,9 @@ dependencies {
     //Hilt
     implementation(libs.hilt)
     implementation libs.ui.tooling.preview
+    implementation libs.credentials
+    implementation libs.credentials.play.services.auth
+    implementation libs.googleid
     debugImplementation libs.ui.tooling
     ksp(libs.hilt.compiler)
     //Firebase
